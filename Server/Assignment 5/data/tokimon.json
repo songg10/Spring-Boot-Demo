@@ -1,0 +1,17 @@
+[ {
+  "name" : "Song",
+  "ability" : "Water",
+  "strength" : 100.0,
+  "weight" : 96.0,
+  "height" : 2.0,
+  "color" : "Red",
+  "id" : 1
+}, {
+  "name" : "Waffle",
+  "ability" : "Fire",
+  "strength" : 100.0,
+  "weight" : 96.0,
+  "height" : 2.0,
+  "color" : "Blue",
+  "id" : 2
+} ]
